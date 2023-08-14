@@ -1,1 +1,3 @@
-# Trying out SwiftUI for the first time
+# SwiftUI Practice Repo
+
+A small project to test SwiftUI
